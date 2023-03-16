@@ -18,7 +18,6 @@ cmake_minimum_required(VERSION 3.5)
 project(phoxi_camera_msgs)
 
 
-set(CMAKE_MODULE_PATH /opt/ros/foxy/share/ament_cmake/cmake/ament_cmakeConfig.cmake)
 find_package(ament_cmake_auto REQUIRED)
 ament_auto_find_build_dependencies()
 
